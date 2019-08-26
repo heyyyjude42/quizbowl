@@ -1,0 +1,140 @@
+body {
+  margin: 0;
+  padding: 20px;
+  background-color: #fefffe;
+}
+
+#header {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+  letter-spacing: 1px;
+  font-size: 30px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+}
+
+#question-panel {
+  font-family: "Amiri", serif;
+  padding: 0 16%;
+  line-height: 160%;
+  font-size: 13pt;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.question-prev-button {
+  margin: 0 50px;
+  margin-bottom: 30px;
+  min-width: 50px !important;
+  height: 50px !important;
+}
+
+.question-advance-button {
+  margin: 0 50px;
+  margin-bottom: 30px;
+  min-width: 80px !important;
+  height: 50px !important;
+  background: none;
+  outline: none;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.answer {
+  display: inline-block;
+  font-style: italic;
+}
+
+#score-panel {
+  text-align: center;
+  width: 100%;
+  font-family: "Josefin Sans", sans-serif;
+  margin-top: 30px;
+  margin-bottom: 40px;
+  /* position: absolute;
+  bottom: 5%; */
+}
+
+.team-box {
+  display: inline-block;
+  margin: 20px;
+  width: fit-content;
+}
+
+.team-name {
+  margin-bottom: 10px;
+}
+
+.team-box input {
+  background: transparent;
+  border: 0;
+  outline: none;
+  font-family: "Josefin Sans", sans-serif;
+  width: 100px;
+}
+
+.team-name input {
+  font-size: 20px;
+  text-align: center;
+}
+
+.team-score input {
+  font-size: 35px;
+  text-align: center;
+}
+
+.round-button {
+  border-radius: 50%;
+  height: 30px;
+  min-width: 30px;
+  text-align: center;
+  outline: none;
+}
+
+.add-rm-team-button {
+  margin: 10px;
+}
+
+.team-add-score-button {
+  margin-top: 8px;
+  margin-right: 3px;
+  outline: none;
+  background: none;
+  transition: all 0.8s;
+  font-family: "Josefin Sans", sans-serif;
+  height: 23px;
+  padding-top: 2px;
+  font-size: 12px;
+}
+
+button:active {
+  background: #abedb6;
+  transition: all 0.1s;
+}
+
+button:active:after {
+  background: none;
+  transition: all 0.8s;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#progress-bar {
+  width: 100%;
+  background-color: #eee;
+}
+
+#bar {
+  width: 1%;
+  height: 7px;
+  background-color: #abedb6;
+}
+
+#progress-bar-container {
+  margin-top: 35px;
+}

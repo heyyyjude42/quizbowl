@@ -1,0 +1,281 @@
+[
+  {
+    "intro": "This warrior is also known as Yin Tar and Eldric Shadowchaser. For 10 points each:",
+    "q1": "Name the hero chosen to fight the darkness, who owns the sword Lightbringer.",
+    "a1": "<b><u>Azor Ahai</u></b> (prompt on <u>the prince that was promised</u>)",
+    "q2": "In order to forge his sword, Azor Ahai sacrifices this individual.",
+    "a2": "<b><u>Nissa Nissa</u></b>",
+    "q3": "Maester Aemon once believed this person to be Azor Ahai come again, who was born amidst the smoke and tears of the Tragedy of Summerhall.",
+    "a3": "<b><u>Rhaegar Targaryen</u></b>"
+  },
+  {
+    "intro": "After the Lannisters came to power, this group of outlaws was founded in the riverlands. For 10 points each:",
+    "q1": "Which group started from the soldiers Ned Stark sent to bring Gregor Clegane to justice?",
+    "a1": "<b><u>Brotherhood Without Banners</u></b>",
+    "q2": "The outlaws come across this valuable hostage, and plan on ransoming her at Riverrun, but she unexpectedly runs away.",
+    "a2": "<b><u>Arya</u> Stark</b>",
+    "q3": "The Brotherhood uses this lady's testimony to condemn Merrett Frey for the Red Wedding.",
+    "a3": "<b><u>Catelyn</u> Stark</b> (also accept <b><u>Catelyn</u> Tully</b> or <b>Lady <u>Stoneheart</u></b>)"
+  },
+  {
+    "intro": "Many individuals come to the Citadel to forge a maester's chain. For 10 points each:",
+    "q1": "Name the maester who educated all the Stark children, as well as Jon and Theon.",
+    "a1": "<b><u>Luwin</u></b>",
+    "q2": "This exiled maester later joined the Brave Companions and nursed Jaime's arm back to health.",
+    "a2": "<b><u>Qyburn</u></b>",
+    "q3": "This Grand Maester served for six kings in a row, beginning with Aegon V.",
+    "a3": "<b><u>Pycelle</u></b>"
+  },
+  {
+    "intro": "Before the First Men arrived, Westeros was inhabited by the children of the forest. For 10 points each:",
+    "q1": "Name this power the children had that is also shared by Jojen Reed.",
+    "a1": "<b><u>greensight</u></b>",
+    "q2": "During the Dawn Age, legends say the children shared Westeros with this larger race.",
+    "a2": "<b><u>giants</u></b>",
+    "q3": "The children called this region of Westeros the \"Empty Land\", which is also the place where the First Men arrived.",
+    "a3": "<b>Arm of <u>Dorne</u></b>"
+  },
+  {
+    "intro": "Many noble houses carry ancestral swords, typically made of Valyrian steel. For 10 points each",
+    "q1": "Name the sword that was melted into <i>Oathkeeper</i> and <i>Widow's Wail</i>.",
+    "a1": "<b><u>Ice</u></b>",
+    "q2": "This bastard sword was left behind by Jorah Mormont when he entered exile.",
+    "a2": "<b><u>Longclaw</u></b>",
+    "q3": "Randyll Tarly wields this sword.",
+    "a3": "<b><u>Heartsbane</u></b>"
+  },
+  {
+    "intro": "Identify the following songs through their lyrics, for 10 points each:",
+    "q1": "\"A bear there was, a bear, a bear! All black and brown, and covered with hair!\"",
+    "a1": "<b><u>The Bear and the Maiden Fair</u></b>",
+    "q2": "\"High in the halls of the kings who are gone, [she] would dance with her ghosts.\"",
+    "a2": "<b><u>Jenny's Song</u></b>",
+    "q3": "\"The Father's face is stern and strong; he sits and judges right from wrong.\"",
+    "a3": "<b><u>Song of the Seven</u></b>"
+  },
+  {
+    "intro": "Unlike inheritance law in mainland Westeros, the Ironborn are able to choose their own king. For 10 points each:",
+    "q1": "Name the traditional ceremony held on Old Wyk, where captains are able to submit their own names to be king.",
+    "a1": "<b><u>kingsmoot</u></b> (do not accept queensmoot)",
+    "q2": "The High King of the Iron Islands sits upon this throne.",
+    "a2": "<b><u>Seastone Chair</u></b>",
+    "q3": "Euron Greyjoy is elected king, but if this individual comes forward, he or she can render the victory as unlawful.",
+    "a3": "<b><u>Theon</u> Greyjoy</b>"
+  },
+  {
+    "intro": "Eddard Stark's honor is regarded as absolutely impeccable save for his bastard Jon Snow. For 10 points each:",
+    "q1": "Name the person that Jon most resembles this person in the Stark family.",
+    "a1": "<b><u>Arya</u> Stark</b> (also accept <b><u>Lyanna</u> Stark</b>)",
+    "q2": "Members of Ned's household believed this person to be Jon's mother, who is said to have laughing purple eyes.",
+    "a2": "<b><u>Ashara Dayne</u></b> (prompt on <u>Ashara</u> or <u>Dayne</u>)",
+    "q3": "Who does Ned imply the mother to be when talking about whores with Robert?",
+    "a3": "<b><u>Wylla</u></b>"
+  },
+  {
+    "intro": "Running a kingdom is no small task. For 10 points each:",
+    "q1": "Name the position once held by Janos Slynt and Jacelyn Bywater.",
+    "a1": "<b>Lord <u>Commander of the City Watch</u></b> (prompt on <u>Lord Commander</u>)",
+    "q2": "While Jaime Lannister is remembered as a kingslayer, he also killed a man holding this office, Lord Rossart, on the same day.",
+    "a2": "<b><u>Hand</u> of the King</b>",
+    "q3": "Kevan Lannister advises Cersei to choose Paxter Redwyne for this office, but she opts for Aurane Waters instead.",
+    "a3": "<b><u>Master of Ships</u></b>"
+  },
+  {
+    "intro": "It is said that a woman's war is in the birthing bed. For 10 points each",
+    "q1": "Name the mother who wed a cousin, and died giving birth to a halfman.",
+    "a1": "<b><u>Joanna Lannister</u></b> (prompt on <u>Joanna</u> or <u>Lannister</u>)",
+    "q2": "This mother died after giving birth to a daughter, and years later, her son sold her crown to survive.",
+    "a2": "<b><u>Rhaella Targaryen</u></b> (prompt on <u>Rhaella</u> or <u>Targaryen</u>)",
+    "q3": "This mother died in childbirth along with her newborn son, but she managed to raise one healthy son to inherit Riverrun.",
+    "a3": "<b><u>Minisa Tully</u></b> (also accept <b><u>Minisa Whent</u></b>; prompt on either name without the other)"
+  },
+  {
+    "intro": "The Free Cities may lie across the Narrow Sea, but people often come and go between continents. For 10 points each:",
+    "q1": "Name the origin city of Syrio Forel, which is also where Arya Stark arrives at after leaving the Saltpans.",
+    "a1": "<b><u>Braavos</u></b>",
+    "q2": "Salladhor Saan was originally from Lys, but he set sail to support this king in Westeros.",
+    "a2": "<b><u>Stannis</u> Baratheon</b>",
+    "q3": "Vargo Hoat leads this band of mercenaries from Qohor, who were brought to pillage the riverlands by Tywin Lannister.",
+    "a3": "<b>the <u>Brave Companions</u></b>"
+  },
+  {
+    "intro": "Few can claim to know more than Varys the Spider. For 10 points each:",
+    "q1": "Name the individual able to identify the dagger that almost killed Bran, when Varys could not.",
+    "a1": "<b><u>Petyr Baelish</u></b> (also accept <b><u>Littlefinger</u></b>)",
+    "q2": "Not wanting a war between the Starks and the Lannisters, Varys encourages Ned to confess and take this action instead of being beheaded.",
+    "a2": "<b><u>take the black</u></b> (also accept <b><u>join the Night's Watch</u></b>, <b><u>go to the Wall</u></b>, and other obvious equivalents)",
+    "q3": "Although Ned confesses, this individual of the court chooses to not heed Varys's counsel and executes him anyways.",
+    "a3": "<b><u>Joffrey</u> Baratheon</b>"
+  },
+  {
+    "intro": "Much of what happens in Westeros and Essos are guided by prophecies. For 10 points each:",
+    "q1": "King Jaehaerys II ordered his children to marry, for this savior was predicted to be born of their line.",
+    "a1": "<b><u>the prince that was promised</u></b> (also accept <b><u>Azor Ahai</u></b>)",
+    "q2": "Daenerys believes that she will be betrayed once for blood, once for gold, and once for…?",
+    "a2": "<b><u>love</u></b>",
+    "q3": "Maggy the Frog predicts that the <i>valonqar</i> will kill Cersei, which is High Valyrian for what?",
+    "a3": "<b><u>little brother</u></b> (prompt on <u>brother</u>)"
+  },
+  {
+    "intro": "Near the end of Robert's Rebellion, Mace Tyrell laid siege to Storm's End. For 10 points each:",
+    "q1": "Name the food that kept Stannis's men alive during the siege, smuggled in by Davos Seaworth.",
+    "a1": "<b><u>onions</u></b> (also accept <b><u>salt fish</u></b>)",
+    "q2": "Stannis never yielded his castle, which meant Mace's troops could not join which important battle happening in the riverlands?",
+    "a2": "<b>Battle of the <u>Trident</u></b>",
+    "q3": "Following the war, much to Stannis's contempt, Robert named him lord of this castle instead of Storm's End.",
+    "a3": "<b><u>Dragonstone</u></b>"
+  },
+  {
+    "intro": "Although most people no longer believe wights exist, they still terrify the freefolk and the Watch. For 10 points each:",
+    "q1": "Name the act that wildlings perform to their dead, to prevent them from becoming wights.",
+    "a1": "<b><u>burning</u></b> (accept obvious equivalents)",
+    "q2": "Although this material has proven to be effective against white walkers, it is utterly useless against wights.",
+    "a2": "<b><u>obsidian</u></b> (also accept <b><u>dragonglass</u></b>; do not accept Valyrian steel or dragonsteel)",
+    "q3": "Ser Alliser Thorne travels to King's Landing with this body part of a wight, in order to convince them of the undead's threat.",
+    "a3": "<b><u>hand</u></b>"
+  },
+  {
+    "intro": "Once every so often, a person or a group of people need to find a hiding spot. For 10 points each:",
+    "q1": "What is the only thing Arya hides before joining the ranks of the House of Black and White?",
+    "a1": "<b><u>Needle</u></b> (prompt on <u>sword</u>)",
+    "q2": "Where do Bran, Rickon, Jojen, Meera, Hodor, and Osha hide after Theon's capture of Winterfell?",
+    "a2": "<b>the <u>crypts of Winterfell</u></b> (prompt on <u>crypts</u>; accept obvious equivalents)",
+    "q3": "In King's Landing, Tyrion hides Shae in plain sight as a maid to this lady.",
+    "a3": "<b><u>Lollys</u> Stokeworth</b> (also accept <b><u>Sansa</u> Stark</b>)"
+  },
+  {
+    "intro": "The faith of the Drowned God is unique to the Iron Islands. For 10 points each:",
+    "q1": "Name the most popular ironman saying, often used as a blessing.",
+    "a1": "<b><u>\"What is dead may never die\"</u></b>",
+    "q2": "Aeron Greyjoy lives on a beach to be close to the Drowned God, and is consequently never dry, earning him this nickname.",
+    "a2": "<b><u>Damphair</u></b>",
+    "q3": "The Drowned God is said to have been at war with this god for a thousand years.",
+    "a3": "<b>the <u>Storm God</u></b>"
+  },
+  {
+    "intro": "Skinchangers are not always accepted in their societies, but their ability exists beyond legends and tales. For 10 points each:",
+    "q1": "Bran wargs into this person to calm him down during a thunderstorm.",
+    "a1": "<b><u>Hodor</u></b>",
+    "q2": "The wildling Orell inhabits this animal to spy on Qhorin Halfhand during his ranging north.",
+    "a2": "<b><u>eagle</u></b>",
+    "q3": "After Orell is slain, this warg takes over his eagle but goes mad after experiencing its death.",
+    "a3": "<b><u>Varamyr</u> Sixskins</b> (also accept <b><u>Varamyr</u> Threeskins</b> and <b><u>Lump</u></b>)"
+  },
+  {
+    "intro": "Many traders have sailed through the narrow sea, but fewer are familiar with the waters beyond that. For 10 points:",
+    "q1": "Name the sea to the west of Westeros that borders the Reach, the westerlands, and the north.",
+    "a1": "<b><u>Sunset</u> Sea</b>",
+    "q2": "This sea lies to the north of the White Waste, is extremely dangerous to cross during the winter, and largely unexplored.",
+    "a2": "<b><u>Shivering</u> Sea</b>",
+    "q3": "Name the sea to the southeast of Essos, bordering Yi Ti and Asshai. A strait of the same name connects this with the Summer Sea.",
+    "a3": "<b><u>Jade</u> Sea</b>"
+  },
+  {
+    "intro": "The lands beyond the Wall are not well mapped, but some places still stand out. For 10 points each:",
+    "q1": "The sworn brothers camp on this stony hill in the haunted forest during the great ranging.",
+    "a1": "<b><u>the Fist</u> of the First Men</b>",
+    "q2": "This river flows past the Fist of the First Men, and following it is the easiest way to find the Frostfangs.",
+    "a2": "<b>the <u>Milkwater</u></b>",
+    "q3": "Beyond the Frostfangs, this region is the northernmost part of Westeros, near the land of Thenn. Legends say the Others originated here.",
+    "a3": "<b><u>Land</u>s <u>of Always Winter</u></b>"
+  },
+  {
+    "intro": "Answer the following questions about Tarth and Evenfall Hall, for 10 points each:",
+    "q1": "During the War of the Five Kings, House Tarth originally declared for this king.",
+    "a1": "<b><u>Renly</u> Baratheon</b>",
+    "q2": "Due to the beautiful seas that surround it, the island of Tarth is also called by this name.",
+    "a2": "<b>the <u>Sapphire Isle</u></b>",
+    "q3": "The Lords of Evenfall call themselves by this title, which they claim dates back to the dawn days.",
+    "a3": "<b>the <u>Evenstar</u></b>"
+  },
+  {
+    "intro": "It is said that this fortress prevented the Andals from conquering the north. For 10 points each:",
+    "q1": "Name the stronghold located near the Neck. It is said whoever holds this holds the north.",
+    "a1": "<b><u>Moat Cailin</u></b>",
+    "q2": "The reason why Most Cailin acts as a natural chokepoint is because the Neck is covered with this environmental feature.",
+    "a2": "<b><u>swamp</u>s</b> (also accept <b><u>bog</u>s</b> and other obvious equivalents)",
+    "q3": "The causeway through the Neck is the safest passage through, but these people know secret ways through the swamp.",
+    "a3": "<b><u>crannogmen</u></b> (prompt on general members of <u>House Reed</u>)"
+  },
+  {
+    "intro": "Many sellswords are organized into free companies. Given examples of notable members, name the larger body they worked for, for 10 points each:",
+    "q1": "The Widower, Sallor the Bald, and Daario Naharis.",
+    "a1": "<b>the <u>Stormcrows</u></b>",
+    "q2": "Ben Plumm, Mero, and Ser Jorah Mormont.",
+    "a2": "<b>the <u>Second Sons</u></b>",
+    "q3": "Daemon Blackfyre and Harry Strickland.",
+    "a3": "<b>the <u>Golden Company</u></b>"
+  },
+  {
+    "intro": "Name the following members of Winterfell's household, before Ned is named Hand of the King, for 10 points each:",
+    "q1": "This knight was the master-at-arms, and escorted Lady Catelyn to King's Landing.",
+    "a1": "<b>Ser <u>Rodrik</u> Cassel</b>",
+    "q2": "This blacksmith crafted Needle, and died for refusing to kneel to Theon.",
+    "a2": "<b><u>Mikken</u></b>",
+    "q3": "This man was the father of Harwin, and served as the master of horse.",
+    "a3": "<b><u>Hullen</u></b>"
+  },
+  {
+    "intro": "In nearly war there is a turncloak. For 10 points each:",
+    "q1": "Name this northern lord who schemed with Walder Frey and Tywin Lannister to betray the Starks.",
+    "a1": "<b><u>Roose </u>Bolton</b>",
+    "q2": "Identify this former friend of Qhorin Halfhand who deserted the Night's Watch to join the wildlings.",
+    "a2": "<b><u>Mance</u> Rayder</b>",
+    "q3": "Name the person who arrived at the capital swearing fealty to the Mad King, but began the Sack of King's Landing instead.",
+    "a3": "<b><u>Tywin</u> Lannister</b> (prompt on <u>Lannister</u>)"
+  },
+  {
+    "intro": "The impacts of the War of the Five Kings were felt up and down the kingdom. For 10 points each:",
+    "q1": "Name this pivotal battle, in which Robb Stark captures Jaime Lannister along with nearly a hundred other knights and nobles.",
+    "a1": "<b>Battle in the <u>Whispering Wood</u></b>",
+    "q2": "Describe the action performed by Mace Tyrell that contributed towards the Riot of King's Landing.",
+    "a2": "<b><u>cut off food and supplies from the Reach</u> (also accept <b><u>close the roseroad</u></b> and other obvious equivalents)</b>",
+    "q3": "With the Redwyne fleet laying siege to Storm's End, this island city was left virtually undefended to the ironborn invasion.",
+    "a3": "<b>the <u>Arbor</u></b>"
+  },
+  {
+    "intro": "With winter coming, the following northern settlements will be the first to feel it. For 10 points each:",
+    "q1": "Name this settlement to the northwest from Winterfell, the ancestral seat of House Glover.",
+    "a1": "<b><u>Deepwood Motte</u></b>",
+    "q2": "This settlement is one of the northernmost towns, and home to Greatjon Umber.",
+    "a2": "<b><u>Last Hearth</u></b>",
+    "q3": "Theon Greyjoy planned an attack on this Tallhart castle to draw troops away from Winterfell, his true target.",
+    "a3": "<b><u>Torrhen's Square</u></b>"
+  },
+  {
+    "intro": "The nomadic Dothraki live by their own culture and customs. For 10 points each:",
+    "q1": "The <i>khal</i> refers to these people as the \"blood of my blood\".",
+    "a1": "<b><u>bloodriders</u></b> (also accept <b><u>ko</u>s</b>)",
+    "q2": "Name the animal that the Dothraki prefer to eat.",
+    "a2": "<b><u>horse</u></b>",
+    "q3": "Widowed <i>khaleesi</i> are brought to Vaes Dothrak to join which group?",
+    "a3": "<b><u>dosh khaleen</u></b>"
+  },
+  {
+    "intro": "Answer the following questions about currency in Westeros, for 10 points each:",
+    "q1": "What is the most valuable coin in the Seven Kingdoms?",
+    "a1": "<b><u>gold</u>en dragon (also accept <b><u>dragon</u></b>)</b>",
+    "q2": "Which animal is most commonly used to refer to a silver coin?",
+    "a2": "<b><u>stag</u></b>",
+    "q3": "What symbol is most commonly engraved on the reverse side of a copper coin?",
+    "a3": "<b><u>seven-pointed star</u></b> (prompt on <u>star</u>)"
+  },
+  {
+    "intro": "The Faith of the Seven is institutionally much more complex than that of the old gods. For 10 points each:",
+    "q1": "Name the title held by the head of the Faith.",
+    "a1": "<b><u>High Septon</u></b> (also accept <b><u>Father of the Faithful</u></b>)",
+    "q2": "This holy book is the most important one of the Faith, which tells the history of the Faith and contains the Maiden’s Book.",
+    "a2": "<b><u>The Seven-Pointed Star</u></b>",
+    "q3": "This organization is the military order of the Faith, which was restored by Cersei Lannister and the High Sparrow.",
+    "a3": "<b><u>Faith Militant</u></b>"
+  },
+  {
+    "intro": "Medicine plays a key role in everyone's quality of life. For 10 points each:",
+    "q1": "Maesters often subscribe this substance to dull pain.",
+    "a1": "<b><u>milk of the poppy</u></b>",
+    "q2": "Roose Bolton believes performing this process regularly is the \"secret to long life\", for \"a man must purge himself of bad blood.\"",
+    "a2": "<b><u>leech</u>ing</b>",
+    "q3": "Name this herbal concoction involving an ingredient that Lord Hoster Tully muttered repeatedly on his deathbed.",
+    "a3": "<b><u>moon tea</u></b>"
+  }
+]
